@@ -1,0 +1,7 @@
+supplier_id,supplier_name,supplier_country,promised_lead_time_days,quality_rating
+SUP-001,Apex Components,India,4,96.0
+SUP-002,BlueRiver Parts,Vietnam,7,91.0
+SUP-003,Crestline Manufacturing,China,9,87.0
+SUP-004,Delta Industrial,Malaysia,6,93.0
+SUP-005,Evergreen Materials,India,5,89.0
+SUP-006,Frontier Supply,Thailand,8,84.0

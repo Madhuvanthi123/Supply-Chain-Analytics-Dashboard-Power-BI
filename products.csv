@@ -1,0 +1,13 @@
+product_id,product_name,category,unit_cost,unit_price,reorder_point
+PRD-001,Laptop Stand,Accessories,22.0,39.0,80
+PRD-002,USB-C Dock,Accessories,48.0,89.0,70
+PRD-003,Wireless Keyboard,Peripherals,31.0,59.0,90
+PRD-004,Wireless Mouse,Peripherals,14.0,29.0,120
+PRD-005,27-inch Monitor,Displays,155.0,249.0,45
+PRD-006,Webcam,Peripherals,38.0,79.0,65
+PRD-007,Noise-cancel Headset,Audio,52.0,99.0,55
+PRD-008,Mechanical Keyboard,Peripherals,67.0,129.0,50
+PRD-009,Portable SSD,Storage,78.0,139.0,45
+PRD-010,Wi-Fi Router,Networking,44.0,85.0,75
+PRD-011,HDMI Cable,Accessories,7.0,15.0,200
+PRD-012,Power Strip,Accessories,16.0,31.0,140

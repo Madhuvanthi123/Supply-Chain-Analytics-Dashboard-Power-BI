@@ -1,0 +1,7 @@
+supplier_id,supplier_name,supplier_country,orders,on_time_orders,quantity_ordered,quantity_delivered,defect_quantity,average_delay_days,average_lead_time_days,total_cost,on_time_delivery_pct,fill_rate_pct,defect_rate_pct,performance_score
+SUP-001,Apex Components,India,414,232,37997,35378,60,0.81,4.81,1778475.85,56.04,93.11,0.17,79.62
+SUP-004,Delta Industrial,Malaysia,396,198,36732,34043,92,1.14,7.14,1772139.00,50.0,92.68,0.27,77.02
+SUP-002,BlueRiver Parts,Vietnam,427,204,40604,37205,118,1.16,8.16,2145444.79,47.78,91.63,0.32,75.7
+SUP-005,Evergreen Materials,India,408,198,37230,33812,132,1.23,6.23,1833176.46,48.53,90.82,0.39,75.66
+SUP-003,Crestline Manufacturing,China,427,193,39069,35398,139,1.26,10.26,1816606.83,45.2,90.6,0.39,74.24
+SUP-006,Frontier Supply,Thailand,428,192,39346,34833,169,1.14,9.14,1888426.66,44.86,88.53,0.49,73.26

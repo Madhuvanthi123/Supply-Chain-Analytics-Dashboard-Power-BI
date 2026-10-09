@@ -1,0 +1,5 @@
+warehouse_id,warehouse_name,region
+WH-001,Mumbai DC,West
+WH-002,Delhi DC,North
+WH-003,Bengaluru DC,South
+WH-004,Kolkata DC,East
